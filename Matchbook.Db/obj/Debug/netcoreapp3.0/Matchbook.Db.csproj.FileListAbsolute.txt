@@ -1,0 +1,12 @@
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csprojAssemblyReference.cache
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfoInputs.cache
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.AssemblyInfo.cs
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CoreCompileInputs.cache
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.deps.json
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Db.pdb
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.dll
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\bin\Debug\netcoreapp3.0\Matchbook.Model.pdb
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.csproj.CopyComplete
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.dll
+C:\Users\AbisShiv\Downloads\Matchbook.Server\Matchbook.Db\obj\Debug\netcoreapp3.0\Matchbook.Db.pdb

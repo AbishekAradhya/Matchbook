@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VcfzhOB36kLLS+HofgiURVdBjjLI6rOSM1+CjALcdPHjwrmlyOeu86ZgAShAUebfi0OzVfE5woSfzCxSzefCuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AbisShiv\\Downloads\\Matchbook.Server\\Matchbook.Model\\Matchbook.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbisShiv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AbisShiv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\AbisShiv\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
